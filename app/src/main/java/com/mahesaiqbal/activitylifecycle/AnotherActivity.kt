@@ -6,7 +6,7 @@ import android.util.Log
 
 class AnotherActivity : AppCompatActivity() {
 
-    val TAG = "Activity 2"
+    val TAG = "AnotherActivity"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
