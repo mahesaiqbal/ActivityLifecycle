@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ActivityLifecycle</string>
     <string name="back_to_mainactivity">This is AnotherActivity, press the back button on the android device to return to ActivityMain</string>
+    <string name="move_to_anotheractivity">Move to AnotherActivity</string>
 </resources>
